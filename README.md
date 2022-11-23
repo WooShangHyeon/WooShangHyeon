@@ -1,4 +1,4 @@
-### Hi there 👋 woo
+### Hi there 👋 woo.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooshanghyeon)](https://github.com/wooshanghyeon/github-readme-stats)
 
 <!--
