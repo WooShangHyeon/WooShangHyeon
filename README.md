@@ -1,6 +1,5 @@
 ### Hi there 👋 woo.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooshanghyeon)](https://github.com/wooshanghyeon/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooshanghyeon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WooShangHyeon/WooShangHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
