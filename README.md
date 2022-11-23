@@ -1,5 +1,4 @@
 ### Hi there 👋 
-#F7DF1E
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooshanghyeon)](https://github.com/wooshanghyeon/github-readme-stats)
 
 <!--
