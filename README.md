@@ -13,7 +13,7 @@ I'm a very, very beginner now, but I'm going to make very cool things in the nea
   
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooshanghyeon&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
