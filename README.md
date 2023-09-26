@@ -1,6 +1,6 @@
 
 ### Hi 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5682F7&background=FFFFFF00&width=432&lines=iOS+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5682F7&background=FFFFFF00&width=432&lines=iOS+Software+Engineer)]([https://git.io/typing-svg](https://github.com/WooShangHyeon))
 <!--
 
 **WooShangHyeon/WooShangHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
