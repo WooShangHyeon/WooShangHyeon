@@ -1,20 +1,7 @@
+
 ### Hi 👋
-I'm a student majoring in mathematics and software at Ajou University in Suwon, Korea.<br>
-I'm a very, very beginner now, but I'm going to make very cool things in the near future!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5682F7&background=FFFFFF00&width=432&lines=iOS+Software+Engineer)](https://git.io/typing-svg)
 <!--
-<div align="center">
-  <h1>👨‍💻SKILLS😀</h1>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-00599C?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-2F2625?style=flat&logo=CoffeeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
-  
-</div>
-
-
 
 **WooShangHyeon/WooShangHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
